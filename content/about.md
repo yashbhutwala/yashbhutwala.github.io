@@ -1,25 +1,15 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "Technologist, perpetual student, teacher, continual incremental improvement. #Cloud #Kubernetes #Docker #Containers #Bitcoin #Services #API #Golang #Python #Security"
+date = "2020-09-14"
+aliases = ["about", "about-yash", "contact"]
+author = "Yash Bhutwala"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hello :) My name is Yash.  I like spreading knowledge of Cloud Native technologies for the greater good!
 
-Hugo makes use of a variety of open source projects including:
+You will see me around there trying to learn new stuffs always, and writing some experiences here. If you want to reach out and provide me some feedback, or ask something from anything I wrote here please please please! Feel free to direct message me.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+My twitter and Linkedin are here.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Hope you enjoy the content here :)

@@ -7,8 +7,8 @@
 - name: Links
   submenu:
     - name: LinkedIn
-      link: https://www.linkedin.com/
+      link: https://www.linkedin.com/in/yashbhutwala
     - name: Twitter
-      link: https://twitter.com/
+      link: https://twitter.com/YBhutwala
 - name: About
   link: about/
