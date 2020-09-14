@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/bhutwala/gocode/src/github.com/yashbhutwala/yashbhutwala.github.io",
+	"sourceRoot": "/home/runner/work/yashbhutwala.github.io/yashbhutwala.github.io",
 	"sources": [
 		"themes/hugo-clarity/assets/sass/main.sass",
 		"themes/hugo-clarity/assets/sass/_variables.sass",
