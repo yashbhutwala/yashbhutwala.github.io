@@ -2,17 +2,17 @@
 # https://github.com/peaceiris/actions-gh-pages
 # https://github.com/peaceiris/hugo-extended-docker
 
-name: github pages
+name: publish-github-pages
 
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - master  # Set a branch to deploy
   # https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-schedule-and-manual-deployment
   # for deploying on a cron schedule
-  schedule:
-    - cron: "22 22 * * *"
-  # for deploying manually
+  # schedule:
+  #   - cron: "22 22 * * *"
+  # allow for deploying manually
   workflow_dispatch:
 
 jobs:
