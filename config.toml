@@ -1,7 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://yashbhutwala.github.io"  # Include trailing slash
-title = "Bhutwala"
+title = "Tribal Spread"
 author = "Yash Bhutwala"
 copyright = "Copyright © 2020, Yash Bhutwala; all rights reserved."
 # canonifyurls = true

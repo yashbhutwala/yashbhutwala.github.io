@@ -1,0 +1,11 @@
+# https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-use-the-latest-and-specific-release
+version: 2
+updates:
+- package-ecosystem: "github-actions"
+  directory: "/"
+  schedule:
+    interval: "daily"
+  labels:
+  - "CI/CD"
+  commit-message:
+    prefix: ci

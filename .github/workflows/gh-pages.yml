@@ -8,6 +8,11 @@ on:
   push:
     branches:
       - main  # Set a branch to deploy
+  # https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-schedule-and-manual-deployment
+  # for deploying on a cron schedule
+  schedule:
+    - cron: "22 22 * * *"
+  # for deploying manually
   workflow_dispatch:
 
 jobs:
