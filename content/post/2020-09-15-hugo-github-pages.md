@@ -21,6 +21,12 @@ tags:
   - Blog
 ---
 
+<!-- omit in toc -->
+## Table of Contents
+
+- [Immediately useful links](#immediately-useful-links)
+- [Background links](#background-links)
+
 Source code for this blog lives on `master` branch [here](https://github.com/yashbhutwala/yashbhutwala.github.io).  The actual assets for the website live on the `gh-pages` branch [here](https://github.com/yashbhutwala/yashbhutwala.github.io/tree/gh-pages) and is posted automatically via the GitHub Action [here](https://github.com/yashbhutwala/yashbhutwala.github.io/actions?query=workflow%3Apublish-github-pages).
 
 ## Immediately useful links
