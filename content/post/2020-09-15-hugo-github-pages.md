@@ -21,9 +21,9 @@ tags:
   - Blog
 ---
 
-## Immediately useful links
+Source code for this blog lives on `master` branch [here](https://github.com/yashbhutwala/yashbhutwala.github.io).  The actual assets for the website live on the `gh-pages` branch [here](https://github.com/yashbhutwala/yashbhutwala.github.io/tree/gh-pages) and is posted automatically via the GitHub Action [here](https://github.com/yashbhutwala/yashbhutwala.github.io/actions?query=workflow%3Apublish-github-pages).
 
-Source code lives on `master` branch.  The actual assets for the website live on the `gh-pages` branch and is posted automatically via the GitHub Action.
+## Immediately useful links
 
 - [hugo-clarity theme](https://themes.gohugo.io/hugo-clarity/)
   - [hugo-clarity github repo](https://github.com/chipzoller/hugo-clarity)
