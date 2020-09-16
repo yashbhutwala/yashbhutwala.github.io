@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - master  # Set a branch to deploy
+    paths-ignore:
+      - 'scripts/**'
+      - 'README.md'
   # https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-schedule-and-manual-deployment
   # for deploying on a cron schedule
   # schedule:
