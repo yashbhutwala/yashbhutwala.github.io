@@ -6,10 +6,6 @@ aliases = ["about", "about-yash", "contact"]
 author = "Yash Bhutwala"
 +++
 
-Hello :) My name is Yash.  I like spreading knowledge of Cloud Native technologies for the greater good!
-
-You will see me around there trying to learn new stuffs always, and writing some experiences here. If you want to reach out and provide me some feedback, or ask something from anything I wrote here please please please! Feel free to direct message me.
-
-My twitter and Linkedin are here.
+Hello, my name is Yash Bhutwala.  I am an Engineering and Thought Leader.  My interests range from software, distributed systems, Bitcoin, Go to cricket, workouts, leadership, culture and more.  You will see me around trying to learn new stuffs always, and writing some experiences here.  If you want to reach out and provide me some feedback, or ask something from anything I wrote here please please please! Feel free to direct message me.  Here is my [Twitter](https://twitter.com/YBhutwala) and [LinkedIn](https://www.linkedin.com/in/yashbhutwala).
 
 Hope you enjoy the content here :)
