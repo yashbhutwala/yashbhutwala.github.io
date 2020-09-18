@@ -35,7 +35,7 @@ introDescription = "Technologist, perpetual student, teacher, continual incremen
 ga_analytics = "XXXXXXXXXX"
 
 # limit the number of taxonomies links shown on the sidebar of each page by default.
-numberOfTagsShown = 3 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
+numberOfTagsShown = 5 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
 
 # will be used on share >> twitter, facebook, linkedin
 fallBackOgImage = "images/thumbnail.png"
