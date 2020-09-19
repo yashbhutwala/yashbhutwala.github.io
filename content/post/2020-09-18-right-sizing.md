@@ -3,7 +3,7 @@ title: "Ultimate guide to right sizing pods in Kubernetes - Requests, Limits, HP
 date: 2020-09-18T10:05:13-04:00 # Date of post creation.
 description: "Right sizing and autoscaling workloads in Kubernetes" # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 # featureImage: "/images/path/file.jpg" # Sets featured image on blog post.
@@ -30,6 +30,7 @@ tags:
   - [Day 1 Solution](#day-1-solution)
     - [Recommendations for initial limits and requests](#recommendations-for-initial-limits-and-requests)
     - [Notes on load testing](#notes-on-load-testing)
+      - [Best load testing tools](#best-load-testing-tools)
   - [Day 2 Solution:](#day-2-solution)
     - [VPA and its gaps](#vpa-and-its-gaps)
 - [Links](#links)
@@ -117,6 +118,16 @@ When testing performance of your application, you should test ALL OF (in order o
 - Each function of your application in isolation
 - Many functions at once based upon an estimate of real-world traffic
 - Randomized testing or "Fuzzing" of different functions
+
+##### Best load testing tools
+
+[Comparing best open source load testing tools](https://k6.io/blog/comparing-best-open-source-load-testing-tools)
+
+Tools in order of my preference:
+
+- [k6](https://github.com/loadimpact/k6)
+- [locust](https://github.com/locustio/locust)
+- [jmeter](https://github.com/apache/jmeter)
 
 <!-- omit in toc -->
 ##### Testing in Isolation
