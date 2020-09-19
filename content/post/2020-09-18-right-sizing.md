@@ -30,7 +30,6 @@ tags:
   - [Day 1 Solution](#day-1-solution)
     - [Recommendations for initial limits and requests](#recommendations-for-initial-limits-and-requests)
     - [Notes on load testing](#notes-on-load-testing)
-      - [Best load testing tools](#best-load-testing-tools)
   - [Day 2 Solution:](#day-2-solution)
     - [VPA and its gaps](#vpa-and-its-gaps)
 - [Links](#links)
@@ -119,6 +118,7 @@ When testing performance of your application, you should test ALL OF (in order o
 - Many functions at once based upon an estimate of real-world traffic
 - Randomized testing or "Fuzzing" of different functions
 
+<!-- omit in toc -->
 ##### Best load testing tools
 
 [Comparing best open source load testing tools](https://k6.io/blog/comparing-best-open-source-load-testing-tools)
