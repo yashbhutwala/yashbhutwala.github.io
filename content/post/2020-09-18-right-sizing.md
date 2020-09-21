@@ -125,9 +125,9 @@ When testing performance of your application, you should test ALL OF (in order o
 
 Tools in order of my preference:
 
-- [k6](https://github.com/loadimpact/k6)
-- [locust](https://github.com/locustio/locust)
-- [jmeter](https://github.com/apache/jmeter)
+- [k6](https://github.com/loadimpact/k6): best because modern, cloud-native (engine is golang) and also scriptable; bad: only bad part is that scripting is in javascript
+- [locust](https://github.com/locustio/locust): good: it's in Python (both engine and scriptability is in python);  bad: it's in Python (single threaded), i.e.: not very performant for distributed use-cases
+- [jmeter](https://github.com/apache/jmeter): good: industry standard for decades, lot of tooling around it; bad: it's very enterprise-y, not scriptable, learning curve is steeper cause it's UI driven
 
 <!-- omit in toc -->
 ##### Testing in Isolation
