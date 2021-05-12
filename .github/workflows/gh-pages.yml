@@ -27,7 +27,7 @@ jobs:
 
       # https://github.com/peaceiris/actions-hugo/releases
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v2.4.13
         with:
           hugo-version: 'latest'
           extended: true
